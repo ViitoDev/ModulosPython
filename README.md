@@ -33,17 +33,17 @@ Os seguintes módulos estão sendo explorados neste projeto, com arquivos e past
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SeuUsuario/NomeDoRepositorio.git](https://github.com/SeuUsuario/NomeDoRepositorio.git)
+    git clone [https://github.com/ViitoDev/ModulosPython.git](https://github.com/ViitoDev/ModulosPython.git)
     ```
 2.  **Navegue até o módulo de interesse:**
     ```bash
-    cd NomeDoRepositorio/math_examples/
+    cd ModulosPython/1-os.py/
     # ou
-    cd NomeDoRepositorio/collections_study/
+    cd ModulosPython/2-math.py/
     ```
 3.  **Execute os exemplos:**
     ```bash
-    python exemplo_uso_basico.py
+    python 1-os.py
     ```
 
 ---
@@ -57,3 +57,4 @@ Contribuições são bem-vindas! Se você tiver um exemplo mais claro, uma aplic
 3.  Fazer o **commit** das suas mudanças (`git commit -m 'Add some AmazingFeature'`).
 4.  Fazer o **push** para a branch (`git push origin feature/AmazingFeature`).
 5.  Abrir um **Pull Request**.
+
