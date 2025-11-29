@@ -1,7 +1,7 @@
 #Programa principal
 import math_operations
 from math_operations import multiply, divide
-import string_utils
+import Módulos.string_utils as string_utils
 
 print(math_operations.sum(5,3))
 print(math_operations.substract(5,3))
