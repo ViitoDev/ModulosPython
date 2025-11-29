@@ -1,4 +1,4 @@
-## 🐍 Python Module Study Repository
+## 🐍 Estudo de módulos do Python
 
 Este repositório é dedicado ao **estudo e exploração de alguns dos módulos mais úteis e comuns da biblioteca padrão do Python**. Ele serve como um recurso prático para entender a funcionalidade e a aplicação de cada módulo através de exemplos de código e explicações concisas.
 
@@ -57,4 +57,5 @@ Contribuições são bem-vindas! Se você tiver um exemplo mais claro, uma aplic
 3.  Fazer o **commit** das suas mudanças (`git commit -m 'Add some AmazingFeature'`).
 4.  Fazer o **push** para a branch (`git push origin feature/AmazingFeature`).
 5.  Abrir um **Pull Request**.
+
 
